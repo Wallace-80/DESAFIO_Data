@@ -18,11 +18,13 @@ Equipo Full Stack:
 * Ismael Escalante
 * Rufino Polvillo
 * Luis Felipe Rucinque
+  
 Equipo Data Science:
 * Alberto Lázaro
 * Mario Ochoa
 * Javier López
 * Rocío Ruiz
+  
 Tutorizados por José Luis Sanjurjo
 
 
