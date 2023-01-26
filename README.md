@@ -1,4 +1,4 @@
-![HeaderML](header.png)
+![HeaderML](./src/media/logo-tratratravel.png)
 
 # DESAFIO DE TRIPULACIONES --TraTraTravel
 ## Objetivo
